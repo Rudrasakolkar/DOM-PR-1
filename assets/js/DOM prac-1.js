@@ -82,5 +82,3 @@ let zzzz = info11.innerText
 console.log(zzzz);
 info.innerHTML=` <strong> Hello Node.js , HN </strong>`;
 
-
-//assets/js/DOMprac-1.js
